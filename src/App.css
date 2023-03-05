@@ -1,0 +1,36 @@
+.color{
+  background-color: rgb(184, 174, 165);
+}
+
+.textColor{
+  color: rgb(68, 167, 161);
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: brown;
+}
+
+.align{
+  text-align: center;
+}
+
+.bgcolor{
+  background-color: brown;
+  text-align: center;
+}
+
+.align{
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
